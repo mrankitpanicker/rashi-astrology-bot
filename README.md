@@ -46,3 +46,5 @@ Update: tuned quantization levels for local inference
 
 Fix OOM: optimized VRAM allocation for Whisper
 
+Patch: resolved memory leak in video rendering loop
+
