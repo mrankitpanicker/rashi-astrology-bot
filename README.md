@@ -100,3 +100,5 @@ Setup: finalized Docker-compose for distributed workers
 
 Update: tuned quantization levels for local inference
 
+Setup: finalized Docker-compose for distributed workers
+
