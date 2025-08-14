@@ -124,3 +124,5 @@ Fix: reduced model loading time for Apex Shortz
 
 Update: tuned quantization levels for local inference
 
+Logic: improved error handling for local-first CRM
+
