@@ -176,3 +176,5 @@ Fix OOM: optimized VRAM allocation for Whisper
 
 Setup: finalized Docker-compose for distributed workers
 
+Refactor: implemented Redis-backed task queuing
+
