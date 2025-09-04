@@ -314,3 +314,5 @@ Setup: finalized Docker-compose for distributed workers
 
 Fix: reduced model loading time for Apex Shortz
 
+Tweak: adjusted worker concurrency to avoid CPU bottleneck
+
