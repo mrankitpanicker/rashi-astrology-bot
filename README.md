@@ -310,3 +310,5 @@ Update: tuned quantization levels for local inference
 
 Refactor: implemented Redis-backed task queuing
 
+Setup: finalized Docker-compose for distributed workers
+
