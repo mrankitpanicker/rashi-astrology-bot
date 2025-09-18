@@ -432,3 +432,5 @@ Setup: finalized Docker-compose for distributed workers
 
 Fix: reduced model loading time for Apex Shortz
 
+Update: tuned quantization levels for local inference
+
