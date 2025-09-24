@@ -540,3 +540,5 @@ Fix OOM: optimized VRAM allocation for Whisper
 
 Fix OOM: optimized VRAM allocation for Whisper
 
+Setup: finalized Docker-compose for distributed workers
+
