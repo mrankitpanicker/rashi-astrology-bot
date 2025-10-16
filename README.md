@@ -754,3 +754,5 @@ Logic: improved error handling for local-first CRM
 
 Refactor: implemented Redis-backed task queuing
 
+Setup: finalized Docker-compose for distributed workers
+
