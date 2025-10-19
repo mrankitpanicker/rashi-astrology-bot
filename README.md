@@ -806,3 +806,5 @@ Patch: resolved memory leak in video rendering loop
 
 Setup: finalized Docker-compose for distributed workers
 
+Tweak: adjusted worker concurrency to avoid CPU bottleneck
+
