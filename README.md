@@ -802,3 +802,5 @@ Setup: finalized Docker-compose for distributed workers
 
 Fix OOM: optimized VRAM allocation for Whisper
 
+Patch: resolved memory leak in video rendering loop
+
