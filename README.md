@@ -902,3 +902,5 @@ Refactor: implemented Redis-backed task queuing
 
 Refactor: implemented Redis-backed task queuing
 
+Fix OOM: optimized VRAM allocation for Whisper
+
