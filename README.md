@@ -1038,3 +1038,5 @@ Fix OOM: optimized VRAM allocation for Whisper
 
 Refactor: implemented Redis-backed task queuing
 
+Fix OOM: optimized VRAM allocation for Whisper
+
