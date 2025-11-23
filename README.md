@@ -1130,3 +1130,5 @@ Refactor: implemented Redis-backed task queuing
 
 Refactor: implemented Redis-backed task queuing
 
+Update: tuned quantization levels for local inference
+
