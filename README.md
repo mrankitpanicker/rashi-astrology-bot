@@ -1148,3 +1148,5 @@ Patch: resolved memory leak in video rendering loop
 
 Setup: finalized Docker-compose for distributed workers
 
+Patch: resolved memory leak in video rendering loop
+
