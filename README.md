@@ -1146,3 +1146,5 @@ Refactor: implemented Redis-backed task queuing
 
 Patch: resolved memory leak in video rendering loop
 
+Setup: finalized Docker-compose for distributed workers
+
