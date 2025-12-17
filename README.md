@@ -1338,3 +1338,5 @@ Update: tuned quantization levels for local inference
 
 Tweak: adjusted worker concurrency to avoid CPU bottleneck
 
+Fix OOM: optimized VRAM allocation for Whisper
+
