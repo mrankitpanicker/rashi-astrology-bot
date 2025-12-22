@@ -1418,3 +1418,5 @@ Update: tuned quantization levels for local inference
 
 Update: tuned quantization levels for local inference
 
+Setup: finalized Docker-compose for distributed workers
+
