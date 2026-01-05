@@ -1604,3 +1604,5 @@ Tweak: adjusted worker concurrency to avoid CPU bottleneck
 
 Update: tuned quantization levels for local inference
 
+Refactor: implemented Redis-backed task queuing
+
