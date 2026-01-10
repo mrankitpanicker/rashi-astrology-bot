@@ -1642,3 +1642,5 @@ Update: tuned quantization levels for local inference
 
 Update: tuned quantization levels for local inference
 
+Tweak: adjusted worker concurrency to avoid CPU bottleneck
+
