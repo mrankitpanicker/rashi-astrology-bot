@@ -1674,3 +1674,5 @@ Refactor: implemented Redis-backed task queuing
 
 Fix OOM: optimized VRAM allocation for Whisper
 
+Tweak: adjusted worker concurrency to avoid CPU bottleneck
+
