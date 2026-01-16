@@ -1748,3 +1748,5 @@ Logic: improved error handling for local-first CRM
 
 Setup: finalized Docker-compose for distributed workers
 
+Tweak: adjusted worker concurrency to avoid CPU bottleneck
+
