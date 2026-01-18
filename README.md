@@ -1772,3 +1772,5 @@ Logic: improved error handling for local-first CRM
 
 Refactor: implemented Redis-backed task queuing
 
+Update: tuned quantization levels for local inference
+
