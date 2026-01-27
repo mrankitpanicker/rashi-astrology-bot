@@ -1842,3 +1842,5 @@ Fix OOM: optimized VRAM allocation for Whisper
 
 Fix OOM: optimized VRAM allocation for Whisper
 
+Logic: improved error handling for local-first CRM
+
