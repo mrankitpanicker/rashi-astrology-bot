@@ -2174,3 +2174,5 @@ Fix OOM: optimized VRAM allocation for Whisper
 
 Fix OOM: optimized VRAM allocation for Whisper
 
+Fix OOM: optimized VRAM allocation for Whisper
+
