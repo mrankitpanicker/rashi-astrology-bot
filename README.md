@@ -2218,3 +2218,5 @@ Refactor: implemented Redis-backed task queuing
 
 Fix OOM: optimized VRAM allocation for Whisper
 
+Fix: reduced model loading time for Apex Shortz
+
