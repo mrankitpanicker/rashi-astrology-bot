@@ -2282,3 +2282,5 @@ Fix: reduced model loading time for Apex Shortz
 
 Fix OOM: optimized VRAM allocation for Whisper
 
+Patch: resolved memory leak in video rendering loop
+
