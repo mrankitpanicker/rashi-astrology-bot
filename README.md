@@ -2378,3 +2378,5 @@ Setup: finalized Docker-compose for distributed workers
 
 Patch: resolved memory leak in video rendering loop
 
+Fix: reduced model loading time for Apex Shortz
+
